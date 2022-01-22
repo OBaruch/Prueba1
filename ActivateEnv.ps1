@@ -1,2 +1,2 @@
 conda create --prefix ./envs
-Write-Output "New env has been created in a repo now"
+Write-Output "New env has been created in a repo naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaow"
